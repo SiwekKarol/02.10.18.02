@@ -10,7 +10,7 @@ public class Main {
         } else {
             System.out.println("Produkty różne");
         }
-
+/////////////////////
 //        String str1 = new String("Ania");
 //        String str2 = new String("Ania");
 //
